@@ -51,3 +51,56 @@ The Power BI dashboard is divided into four interactive and visually appealing p
       Helps identify demand trends and areas impacting the guest experience.
       Enables data-driven improvements to enhance both occupancy performance and customer satisfaction.
     ![Rating,Booking Overview-fotor-](https://github.com/nafsheikh/Hospitality-Analysis-Project-Powerbi/blob/main/Rating,Booking%20Page.png?raw=true)
+---
+   ## Key Insights
+ #### City Overview
+Mumbai stands out as the primary revenue driver, contributing ₹661M.
+Delhi, although generating the lowest revenue (₹290.92M), achieved the highest occupancy rate (60.44%), indicating efficient room utilization.
+
+#### Property Highlights
+AtliQ Exotica ranks as the top-performing property with ₹316M in revenue and 57.20% occupancy.
+The property also shows a 24.39% cancellation rate, suggesting scope for improving booking retention.
+
+#### Booking Patterns
+Weekend demand is strongest, with occupancy peaking at 62.6% on Fridays and Saturdays.
+Elite rooms lead in demand with 49K bookings, followed by Standard rooms (38K bookings).
+
+#### Channel Performance
+
+The majority of bookings are generated through Other Channels.
+Makeyourtrip and Logtrip contribute as the next significant booking sources.
+
+📊 Metrics Monitored
+🧮 Core Hospitality KPIs
+
+RevPAR — Measures revenue earned per available room.
+ADR — Tracks the average daily rate per occupied room.
+Occupancy Rate — Indicates the percentage of rooms filled.
+Cancellation Rate — Reflects the proportion of canceled bookings.
+DBRN & DSRN — Monitor daily booked and sellable room nights.
+
+#### Tools & Methodology
+
+🔄 Data Preparation
+Cleaned and transformed raw data to maintain accuracy and consistency.
+Validated datasets to ensure reliable analytical outputs.
+
+#### Data Modeling
+Built a star schema to optimize performance and simplify analysis in Power BI.
+
+Defined relationships between fact and dimension tables for efficient querying.
+
+#### 📈 Dashboard Development
+
+Created an interactive Power BI dashboard featuring:
+Intuitive navigation
+Context-rich tooltips
+Conditional formatting for quick insights
+Dynamic KPI visuals
+
+#### 🤝 Business Understanding
+
+Strengthened domain knowledge in hospitality analytics.
+Practiced structured data storytelling for business stakeholders.
+
+🔚 This project demonstrates how data-driven analytics can empower hospitality businesses to make smarter strategic decisions. Continuous improvements and deeper insights can further enhance revenue optimization and guest experience.
